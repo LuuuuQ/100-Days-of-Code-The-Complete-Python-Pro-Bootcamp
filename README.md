@@ -10,6 +10,12 @@
 
 <h3>2.Etch a sketch</h3>
 <p>Learning the screen and turtle module. Click the arrows to move around.</p>
-<a href="https://replit.com/@LukaszWroblewsk/Turtle-Drawing?v=1">TRY IT HERE</a>
 
 ![python_HC3kDAIIQO](https://github.com/LuuuuQ/Python-Projects/assets/140170604/ae805044-1fd8-412d-823a-080aba34a4ae)
+<a href="https://replit.com/@LukaszWroblewsk/Turtle-Drawing?v=1">TRY IT HERE</a>
+
+<h3>Turtle Racing</h3>
+<p>Turtles of random speed race against each other. Bet which color will win.</p>
+
+![pycharm64_2Rue7QPlrD](https://github.com/LuuuuQ/Python-Projects/assets/140170604/dfc22bb9-92fc-45a2-909f-76efcbf9963d)
+<a href="https://replit.com/@LukaszWroblewsk/Turtle-Racing?v=1">TRY IT HERE</a>
