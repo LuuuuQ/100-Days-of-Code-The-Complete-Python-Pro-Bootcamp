@@ -19,3 +19,6 @@
 
 ![pycharm64_2Rue7QPlrD](https://github.com/LuuuuQ/Python-Projects/assets/140170604/dfc22bb9-92fc-45a2-909f-76efcbf9963d)
 <p><a href="https://replit.com/@LukaszWroblewsk/Turtle-Racing?v=1">TRY IT HERE</a></p>
+
+<h3>Snake</h3>
+<p></p>
