@@ -21,4 +21,7 @@
 <p><a href="https://replit.com/@LukaszWroblewsk/Turtle-Racing?v=1">TRY IT HERE</a></p>
 
 <h3>Snake</h3>
-<p></p>
+<p>A recreation of the classic game "Snake" with a functioning highscore function. Use the arrows to move.</p>
+
+![python_DfUpWdn9c2](https://github.com/LuuuuQ/Python-Projects/assets/140170604/252cac3f-0922-4096-a7f3-5b60999feea7)
+<p><a href="https://replit.com/@LukaszWroblewsk/Snake-with-highscore?v=1">TRY IT HERE</a></p>
