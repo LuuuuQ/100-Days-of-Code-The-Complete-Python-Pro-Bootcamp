@@ -25,3 +25,10 @@
 
 ![python_DfUpWdn9c2](https://github.com/LuuuuQ/Python-Projects/assets/140170604/252cac3f-0922-4096-a7f3-5b60999feea7)
 <p><a href="https://replit.com/@LukaszWroblewsk/Snake-with-highscore?v=1">TRY IT HERE</a></p>
+
+<h3>Pong</h3>
+<p>Another classic game. Use "W" and "S" to control the left palette, and the up and down arrows to control the left one. </p>
+
+![python_b0NHgM8Ufh](https://github.com/LuuuuQ/Python-Projects/assets/140170604/c517fba7-a6b2-4837-a040-5fd483a87c90)
+<p><a href="https://replit.com/@LukaszWroblewsk/Pong?v=1">TRY IT HERE</a></p>
+
