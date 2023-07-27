@@ -32,3 +32,9 @@
 ![python_b0NHgM8Ufh](https://github.com/LuuuuQ/Python-Projects/assets/140170604/c517fba7-a6b2-4837-a040-5fd483a87c90)
 <p><a href="https://replit.com/@LukaszWroblewsk/Pong?v=1">TRY IT HERE</a></p>
 
+<h3>Turtle Crossing</h3>
+<p>Another game using the turtle module. "W" to go up "S" to go back. </p>
+
+![python_O3TlMeIOra](https://github.com/LuuuuQ/Python-Projects/assets/140170604/4fe5ae03-9348-487c-a21d-5f4b414002ca)
+
+<p><a href="https://replit.com/@LukaszWroblewsk/Turtle-Crossing?v=1">TRY IT HERE</a></p>
