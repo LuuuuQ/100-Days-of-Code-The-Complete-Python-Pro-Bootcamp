@@ -44,5 +44,12 @@
 ![python_rf5rbvzmCq](https://github.com/LuuuuQ/Python-Projects/assets/140170604/8d8a2085-7b0a-441d-9f63-39e118833973)
 <p><a href="https://replit.com/@LukaszWroblewsk/US-State-Quiz?v=1">TRY IT HERE</a></p>
 
+<h3>8.Converter</h3>
+<p>A simple program using tkinter that converts miles to kilometers</p>
+
+![python_1OcdBr4BVo](https://github.com/LuuuuQ/Python-Projects/assets/140170604/76d0f510-6d3f-4a93-a3b0-9fa7ee998ce2)
+<p><a href="https://replit.com/@LukaszWroblewsk/Converter?v=1">TRY IT HERE</a></p>
+
+
 
 
